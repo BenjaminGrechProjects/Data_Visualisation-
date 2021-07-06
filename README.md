@@ -1,1 +1,1 @@
-# Data_Visualisation-
+Both the files are from the same project being a performance report for a company 'Kevin Cookie Company". The pBI one is to be downloaded if you wish to test the functionality and interaction of the report. The second is just an image of it
